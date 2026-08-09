@@ -1,0 +1,3 @@
+rootProject.name = 'rootProject'
+
+include('user-service', 'utils', 'order-service')
